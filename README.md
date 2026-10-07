@@ -28,7 +28,7 @@ Microsoft Excel: **Power Query**, **PivotTables & PivotCharts**, **slicers**, Pa
 
 ## Descriptive findings
 
-![Pareto analysis of market capitalization by sector](images/pareto_market_cap_by_sector.png)
+![Pareto analysis of market capitalization by sector](pareto_market_cap_by_sector.png)
 
 - Total market cap of the 505 companies: **$24,865.5 bn**.
 - The index is highly concentrated: **Information Technology alone is 27.1%**, the top three sectors exceed 50%, and **6 of 11 sectors account for 85.0%** of total value.
@@ -68,8 +68,8 @@ Two pivot tables share a **sector slicer**, so filtering one sector updates both
 |---|---|
 | `SP500_Analysis.xlsx` | Excel workbook: Power Query table, pivot tables & charts with slicer, Pareto table, regression outputs, forecasts and model comparison |
 | `SP500_Analysis_Report_GR.pdf` | Full written report (in Greek) |
-| `data/constituents-financials.csv` | Original dataset |
-| `images/` | Charts used in this README |
+| `constituents-financials.csv` | Original dataset |
+| `pareto_market_cap_by_sector.png` | Pareto chart used in this README |
 
 ## Use of AI tools
 
